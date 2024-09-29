@@ -1,6 +1,6 @@
   👋 Hi, I’m @Sam-v1.
 👀 I began learning Solidity six months ago.
-🌱 I am currently focused on developing decentralized applications (DApps) and tokens.
+🌱 I am currently focused on developing decentralized applications (DApps) and tokens. 
 💞️ I am seeking collaboration opportunities on blockchain-based projects, particularly on Ethereum or its compatible layers.................. 
 📫 You can reach me at …..
 ⚡ Fun fact: ......   
